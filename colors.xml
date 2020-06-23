@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#040B19</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="bgColor">#06091E</color>
+    <color name="Silver">#CDD1D0</color>
+    <color name="lightRed">#FA5555</color>
+    <color name="numberColor">#FFFFFF</color>
+
+</resources>
